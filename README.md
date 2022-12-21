@@ -14,6 +14,11 @@ As INPUT:
 
 ![iot dashboard device](https://github.com/Ahmedhkad/iot-frontend/blob/master/iot-dashboard-device.jpeg)
 
+to setup you need composer , then run command
+```
+composer install 
+```
+
 ![Screenshot](https://github.com/Ahmedhkad/iot-frontend/blob/master/iot-dashboard-screen.PNG)
 
 First attemp to work on this project was in 2018
